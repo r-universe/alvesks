@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ec50estimator",
+    "oncran": true
+  },
+  {
+    "package": "epifitter",
+    "oncran": true
+  }
+]
