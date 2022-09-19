@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ec50estimator"]
-	path = ec50estimator
-	url = https://github.com/alvesks/ec50estimator
-	shallow = true
-	registered = true
 [submodule "epifitter"]
 	path = epifitter
 	url = https://github.com/alvesks/epifitter
